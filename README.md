@@ -58,21 +58,21 @@ This file serves as the main entry point for the restaurant system. It integrate
 ###./resturant
 
 
-##File Descriptions
-###Bill Module.c: Handles billing operations.
-###Display Module.C: Displays menu items.
-###product_management.c: Manages product inventory.
-###shopping_cart.c: Manages the shopping cart and generates invoices.
-###Resturant.c: Main entry point that integrates all modules.
+File Descriptions
+Bill Module.c: Handles billing operations.
+Display Module.C: Displays menu items.
+product_management.c: Manages product inventory.
+shopping_cart.c: Manages the shopping cart and generates invoices.
+Resturant.c: Main entry point that integrates all modules.
 
 
-##Future Enhancements
-###Add a graphical user interface (GUI) for a better user experience.
-###Integrate with a database for persistent storage of menu items and orders.
-###Implement user authentication for secure access to the system.
+Future Enhancements
+Add a graphical user interface (GUI) for a better user experience.
+Integrate with a database for persistent storage of menu items and orders.
+Implement user authentication for secure access to the system.
 
 
 
 
-##License
-###This project is licensed under the MIT License. See the LICENSE file for details.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
