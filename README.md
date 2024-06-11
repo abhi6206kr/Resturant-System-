@@ -39,24 +39,17 @@ This file serves as the main entry point for the restaurant system. It integrate
 
 ## How to Run
 
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/yourusername/Resturant-System.git
-   cd Resturant-System
-
-##Compile the Code:
-
-###gcc product_management.c -o product_management
-###gcc Bill\ Module.c -o bill_module
-###gcc Display\ Module.C -o display_module
-###gcc shopping_cart.c -o shopping_cart
-###gcc Resturant.c -o resturant
+Compile the Code:
+gcc product_management.c -o product_management
+gcc Bill\ Module.c -o bill_module
+gcc Display\ Module.C -o display_module
+gcc shopping_cart.c -o shopping_cart
+gcc Resturant.c -o resturant
 
 
 
-##Run the Program:
-###./resturant
-
+Run the Program:
+./resturant
 
 File Descriptions
 Bill Module.c: Handles billing operations.
