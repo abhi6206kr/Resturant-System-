@@ -44,35 +44,35 @@ This file serves as the main entry point for the restaurant system. It integrate
    git clone https://github.com/yourusername/Resturant-System.git
    cd Resturant-System
 
-#Compile the Code:
+##Compile the Code:
 
-#gcc product_management.c -o product_management
-#gcc Bill\ Module.c -o bill_module
-#gcc Display\ Module.C -o display_module
-#gcc shopping_cart.c -o shopping_cart
-#gcc Resturant.c -o resturant
-
-
-
-#Run the Program:
-#./resturant
-
-
-#File Descriptions
-#Bill Module.c: Handles billing operations.
-#Display Module.C: Displays menu items.
-#product_management.c: Manages product inventory.
-#shopping_cart.c: Manages the shopping cart and generates invoices.
-#Resturant.c: Main entry point that integrates all modules.
-
-
-#Future Enhancements
-#Add a graphical user interface (GUI) for a better user experience.
-#Integrate with a database for persistent storage of menu items and orders.
-#Implement user authentication for secure access to the system.
+###gcc product_management.c -o product_management
+###gcc Bill\ Module.c -o bill_module
+###gcc Display\ Module.C -o display_module
+###gcc shopping_cart.c -o shopping_cart
+###gcc Resturant.c -o resturant
 
 
 
+##Run the Program:
+###./resturant
 
-#License
-#This project is licensed under the MIT License. See the LICENSE file for details.
+
+##File Descriptions
+###Bill Module.c: Handles billing operations.
+###Display Module.C: Displays menu items.
+###product_management.c: Manages product inventory.
+###shopping_cart.c: Manages the shopping cart and generates invoices.
+###Resturant.c: Main entry point that integrates all modules.
+
+
+##Future Enhancements
+###Add a graphical user interface (GUI) for a better user experience.
+###Integrate with a database for persistent storage of menu items and orders.
+###Implement user authentication for secure access to the system.
+
+
+
+
+##License
+###This project is licensed under the MIT License. See the LICENSE file for details.
